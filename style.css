@@ -1,0 +1,81 @@
+.main1 {
+  text-align: center;
+  border-radius: 15px;
+  background-color: rgb(251, 255, 255);
+  height: 550px;
+  width: 380px;
+}
+h2 {
+  font-family: "Paytone One", sans-serif;
+  color: hsl(228, 43%, 21%);
+}
+.main {
+  font-family: "M PLUS 1p", sans-serif;
+  color: hsl(228, 43%, 21%);
+  font-size: 18px;
+}
+input {
+  color: white;
+  background-color: blue;
+  height: 40px;
+  width: 370px;
+  padding: 2px;
+  border: 10px;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.5);
+}
+button {
+  color: blue;
+  background-color: white;
+  height: 40px;
+  width: 370px;
+  padding: 2px;
+  border: 10px;
+  border-radius: 10px;
+}
+.main1 img {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+}
+.ismusic {
+  background-color: rgb(213, 223, 223);
+  border-radius: 15px;
+  margin: 10px;
+  display: flex;
+  justify-items: flex-start;
+  align-items: center;
+  height: 75px;
+}
+.music1 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 10px;
+}
+.music2 {
+  display: flex;
+  padding-left: 30px;
+  justify-content: space-around;
+  align-items: center;
+}
+.music3 {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  padding-left: 95px;
+}
+
+.backgrd {
+  margin-left: 500px;
+}
+#bgmain {
+  background-color: rgb(228, 236, 241);
+  height: 100%;
+  width: 100%;
+  padding-top: 80px;
+  padding-bottom: 70px;
+  background-image: url("./images/pattern-background-desktop.svg");
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+}
